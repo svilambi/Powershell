@@ -32,3 +32,6 @@ $test.name  --> to print name variable
 $test.kill()  --> to kill the process of MicrosoftEdge
 
 get-history  --> to get the list of commands for this session
+
+`n  --> to get new line while using write-host
+
